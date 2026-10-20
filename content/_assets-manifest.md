@@ -21,5 +21,5 @@ Brand blue sampled from logo: ~#2F6AD3. Hospitality teal ~#168080.
 | Bingo | Bingo Logo.png | |
 | Amigo | Amigo logo-RGB za WEB_PNG.png | |
 | Soaka | Soaka Logo.jpg | Opaque white JPG from an "Unused" folder: confirm it's current |
-| Ol' Timez | Ol Timez Logo Final.png (+ PDF) | Black text on transparent: needs a light background |
+| Ol' Timez | Ol' Timez Logo 2025 Update.png (+ .ai) | 3059x2159, self-contained badge, works on any background. Old logo moved to brands/_superseded/ |
 | White & Bright | White & Bright Logo.png | |
